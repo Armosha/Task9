@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<test>
+        <command>AddNewQuest</command>
+        <Quetion>tns:what do you know about oop</Quetion>
+        <IdSubject>2</IdSubject>
+        <Answer>it'a list of generally principles of java</Answer>
+</test>
+
